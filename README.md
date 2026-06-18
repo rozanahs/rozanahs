@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @rozanahs
-- 👀 I’m interested in IT Development
-- 🌱 I’m currently learning ---
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me linkedln/Rozanah Saleh
+# Hi there, I'm Rozanah 👋
 
-<!---
-rozanahs/rozanahs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👩‍💻 About Me
+- 💻 QA Engineer
+- 🌱 Currently learning **Playwright**
+- 🚀 Building my first automation tests
+- 🤝 Let's connect!
+- 📫 LinkedIn: linkedin.com/in/rozanah-saleh
+
+## 🛠️ Tech Stack
+- Playwright
+- JavaScript
+- Git & GitHub
+- Postman
+- Manual Testing
+
+---
+
+> "Every expert was once a beginner."
